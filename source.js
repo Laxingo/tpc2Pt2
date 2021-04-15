@@ -1,6 +1,6 @@
 let writeOutput = function(text)
 {
-    document.write(<h2>${text}</h2>);
+    document.write(`<h2>${text}</h2>`);
 
 }
 
